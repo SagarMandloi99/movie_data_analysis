@@ -1,2 +1,12 @@
+![newplot (10)](https://github.com/user-attachments/assets/9506e1e8-238d-49f3-9c81-e6320b98fb06)
+![newplot (9)](https://github.com/user-attachments/assets/5f84fa16-7395-42e7-991b-de6b21696dda)
+![newplot (8)](https://github.com/user-attachments/assets/649a8c57-ea7c-40a4-8bca-ff7920c61ae2)
+![newplot (7)](https://github.com/user-attachments/assets/1b38aedd-1b30-4803-9dfb-4abd26582bbc)
+![newplot (6)](https://github.com/user-attachments/assets/a8d6aeea-1fa6-4a07-a342-6fe67aad7ca9)
+![newplot (5)](https://github.com/user-attachments/assets/4d26dced-4d11-4bd0-9185-c207b3b29d29)
+![newplot (4)](https://github.com/user-attachments/assets/9c2532c3-a9ed-4e94-bb56-8c559ae9e09f)
+![newplot (3)](https://github.com/user-attachments/assets/0fd1eb73-91d8-44bb-8058-509d947bc7ab)
+![newplot (2)](https://github.com/user-attachments/assets/205b216f-6219-4d1d-b642-465a5bedf72c)
+![newplot (1)](https://github.com/user-attachments/assets/fab779bb-0e13-40e1-a39a-6d6c4e844174)
 # movie_data_analysis
 ![newplot](https://github.com/user-attachments/assets/f72d8949-5cbf-4a26-9d41-4d09b35cd12b)
